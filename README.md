@@ -8,12 +8,12 @@
 npm i 
 cd server && npm i
 ```
-##### To run the normal version
+##### To run the normal version (In React project folder)
 ```bash
 npm run start
 ```
 
-##### To run the Nodejs-proxy version
+##### To run the Nodejs-proxy version (In React project folder)
 ```bash
 npm run start-proxy
 ```
